@@ -1,2 +1,2 @@
-﻿Ryujinx - Nintendo Switch Emulator
-Switch Firmwares - Darthsternie's Firmware Archive
+﻿Ryujinx - https://ryujinx.app/
+Switch Firmwares - https://darthsternie.net/switch-firmwares/
