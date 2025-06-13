@@ -2,9 +2,9 @@ Guide on how to setup emulation
 
 Run ryujinx and click "Open ryujinx folder" under file
 
-Open system and move title.keys into it
+Clcik "Actions" and then install keys, then click the prod.keys and then the title.keys
 
-Back out and click "Install firmware from ZIP" under tools and chose the firmware ZIP
+Back out and click "Install firmware from ZIP" under actions and chose the firmware ZIP
 
 Click "Manage user profiles" under options and create a profile and save it
 
